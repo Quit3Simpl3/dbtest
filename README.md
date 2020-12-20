@@ -3,9 +3,7 @@
 
 #### In order to use, just clone the repository and run:
 ```
-<p>
-  <br />$ python manage.py makemigrations
-  <br />$ python manage.py migrate
-  <br />$ python manage.py runserver
-</p>
+$ python manage.py makemigrations
+$ python manage.py migrate
+$ python manage.py runserver
 ```
